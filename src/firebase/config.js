@@ -4,13 +4,14 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDnrXcfm2DFzzbMwVd2ty4oydZ9qSnGiB8",
-  authDomain: "adrian-eb6ea.firebaseapp.com",
-  projectId: "adrian-eb6ea",
-  storageBucket: "adrian-eb6ea.appspot.com",
-  messagingSenderId: "380430211990",
-  appId: "1:380430211990:web:ad8ce8cba96769b84bdbb7"
+  apiKey: "AIzaSyAAQzDjnCKgp3tXyAcLRPBxmcc7eiDInjs",
+  authDomain: "nutrishop-883e5.firebaseapp.com",
+  projectId: "nutrishop-883e5",
+  storageBucket: "nutrishop-883e5.appspot.com",
+  messagingSenderId: "229305781514",
+  appId: "1:229305781514:web:be19cbb17c641de95bbef3"
 };
+
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
